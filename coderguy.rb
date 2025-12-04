@@ -4,9 +4,9 @@ class Coderguy < Formula
   desc "Switchboard for Local vs Cloud AI Coding"
   homepage "https://github.com/nmingora/bridge-cli"
 
-  url "https://github.com/nmingora/bridge-cli/archive/refs/tags/v1.0.5.tar.gz"
+  url "https://github.com/nmingora/bridge-cli/archive/refs/tags/v1.0.6.tar.gz"
 
-  sha256 "e16ecc6c99f40343502b904ce611ddd5ecf8b7914d1554f83b9daf2ce8304cf0"
+  sha256 "f6f6075316c200f2bc5d7d51e2a499d4cd2e22e1ca430a939335ba48959fea74"
   license "MIT"
 
   depends_on "python@3.12"
