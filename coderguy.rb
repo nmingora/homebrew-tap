@@ -6,7 +6,7 @@ class Coderguy < Formula
 
   url "https://github.com/nmingora/bridge-cli/archive/refs/tags/v1.0.3.tar.gz"
 
-  sha256 "8803f76a3a3f5adb42721c71eredacted14b1f9badad"
+  sha256 "8803f76a3a3f5adb42721c71e292b99adf52e4f0b3a3a5604869c14b1f9badad"
   license "MIT"
 
   depends_on "python@3.12"
